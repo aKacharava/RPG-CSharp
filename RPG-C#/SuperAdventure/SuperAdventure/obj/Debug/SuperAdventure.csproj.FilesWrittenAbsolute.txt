@@ -1,0 +1,26 @@
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.ProPRG.resources
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.Properties.Resources.resources
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.exe.config
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.exe.mdb
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.pdb
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.exe
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.exe
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.exe.mdb
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.pdb
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/Engine.dll
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/Engine.dll.mdb
+/Users/alexlekso/Desktop/SuperAdventure/SuperAdventure/bin/Debug/Engine.pdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.ProPRG.resources
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.Properties.Resources.resources
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.exe.config
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.exe.mdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.pdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/SuperAdventure.exe
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.exe
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.exe.mdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/obj/Debug/SuperAdventure.pdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/Engine.dll
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/Engine.dll.mdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/SuperAdventure/bin/Debug/Engine.pdb

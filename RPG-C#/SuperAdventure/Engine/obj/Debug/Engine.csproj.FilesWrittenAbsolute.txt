@@ -1,0 +1,14 @@
+/Users/alexlekso/Desktop/SuperAdventure/Engine/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexlekso/Desktop/SuperAdventure/Engine/bin/Debug/Engine.dll.mdb
+/Users/alexlekso/Desktop/SuperAdventure/Engine/bin/Debug/Engine.pdb
+/Users/alexlekso/Desktop/SuperAdventure/Engine/bin/Debug/Engine.dll
+/Users/alexlekso/Desktop/SuperAdventure/Engine/obj/Debug/Engine.dll
+/Users/alexlekso/Desktop/SuperAdventure/Engine/obj/Debug/Engine.dll.mdb
+/Users/alexlekso/Desktop/SuperAdventure/Engine/obj/Debug/Engine.pdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/bin/Debug/Engine.dll.mdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/bin/Debug/Engine.pdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/bin/Debug/Engine.dll
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/obj/Debug/Engine.dll
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/obj/Debug/Engine.dll.mdb
+/Users/alexlekso/Documents/RPG C#/SuperAdventure/Engine/obj/Debug/Engine.pdb
